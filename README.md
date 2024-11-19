@@ -10,15 +10,13 @@ This repository demonstrates an **Infinite Scroll** feature, which dynamically l
 - **Efficient performance**: Optimized for smooth scrolling and quick response times.
 - **Customizable**: Easily adaptable for various use cases, such as loading images, articles, or data entries.
 
-## Demo
 
-[Live Demo](#) (Add your live demo link here, if available.)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohdAahil01/infiinte_scroll.git
+   git clone https://github.com/gauriruby/infiinte_scroll.git
    cd infiinte_scroll
    ```
 
@@ -50,15 +48,7 @@ You can customize the behavior by modifying the `script.js` file:
 - A modern web browser (e.g., Chrome, Firefox, Edge).
 - No additional libraries or frameworks are required.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-xyz`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-xyz`.
-5. Open a pull request.
+]
 
 ## License
 
